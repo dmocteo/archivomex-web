@@ -9,6 +9,6 @@ La versión web de Xtractor es un wrapper que se encarga de replicar el funciona
 
 La versión web utiliza Django como framework.
 
-Es necesario incluir credenciales de Cloudinary para alojar las imagenes previo a su funcionamiento.
+Es necesario incluir credenciales de Cloudinary para alojar las imágenes previo a su funcionamiento.
 
 Debido a la arquitectura y capacidad de los servidores, únicamente se encuentra funcional el módulo de *Xtractor EHM 2014*.
