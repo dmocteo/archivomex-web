@@ -7,7 +7,7 @@ Esta aplicación, en versión preliminar de “Alpha”, es un experimento para 
 
 La versión web de Xtractor es un wrapper que se encarga de replicar el funcionamiento de las herramientas de escritorio de manera web.
 
-Este software web utiliza Django como framework.
+Esta aplicación web utiliza Django como framework.
 
 Para correr el proyecto es necesario replicar los siguientes pasos:
 
