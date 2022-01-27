@@ -9,8 +9,14 @@ La versión web de Xtractor es un wrapper que se encarga de replicar el funciona
 
 Este software web utiliza Django como framework.
 
-Por favor, revisa los requirements.txt para que no tener problemas de dependencias.
+Para correr el proyecto es necesario replicar los siguientes pasos:
 
-Es necesario incluir credenciales de Cloudinary para alojar las imágenes previo a su funcionamiento.
+1. Clonar el repositorio.
+2. Crear un entorno virtual.
+3. Instalar los requerimientos.
+4. Crear la base de datos con sqlite3.
+5. Generar una nueva llave secreta.
+6. Hacer las migraciones.
+7. Actualizar las llaves para la API de Cloudinary
 
 Debido a la arquitectura y capacidad de los servidores, únicamente se encuentra funcional el módulo de *Xtractor EHM 2014*.
