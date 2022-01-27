@@ -18,5 +18,7 @@ Para correr el proyecto es necesario replicar los siguientes pasos:
 5. Generar una nueva llave secreta.
 6. Hacer las migraciones.
 7. Actualizar las llaves para la API de Cloudinary
+8. Instalar Tesseract-OCR.
+9. Actualizar el path que hace referencia a Tesseract-OCR.
 
 Debido a la arquitectura y capacidad de los servidores, únicamente se encuentra funcional el módulo de *Xtractor EHM 2014*.
