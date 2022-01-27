@@ -22,3 +22,7 @@ Para correr el proyecto es necesario replicar los siguientes pasos:
 9. Actualizar el path que hace referencia a Tesseract-OCR.
 
 Debido a la arquitectura y capacidad de los servidores, únicamente se encuentra funcional el módulo de *Xtractor EHM 2014*.
+
+En el siguiente video se describe el funcionamiento del Xtractor alojado en Heroku:
+
+https://youtu.be/bIgXGbdqzEM
